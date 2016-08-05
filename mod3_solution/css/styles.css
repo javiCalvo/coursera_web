@@ -58,6 +58,8 @@ li{
 /*CONTENT*/
 .container{
 	width: 100%;
+}
+body > .container{
 	margin-bottom: 20px;
 }
 h1{
